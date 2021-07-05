@@ -1,0 +1,216 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset=utf-8"utf-8">
+<title>《真六职业传奇·第三季》“战宠系统、魔法次数、魔法范围”</title>
+<meta name=Description content="《真六职业传奇》“战宠系统、魔法次数、魔法范围”">
+<meta name=Keywords content="《真六职业传奇》“战宠系统、魔法次数、魔法范围”">
+<link rel=stylesheet href="http://pan.gm88.top/banqiao/logo50css/style.css" tppabs="../../wy.cq.gl/6/logo50css/style.css">
+<script type=text/javascript>
+    
+        var ie6 = !-[1, ] && !window.XMLHttpRequest;
+        if (ie6) {
+            window.location.href="http://pan.gm88.top/banqiao/"
+        }
+    </script>
+<script type=text/javascript src="http://pan.gm88.top/banqiao/logo50js/jquery.js" tppabs="http://wy.cq.gl/6/logo50js/jquery.js"></script>
+<script src="http://pan.gm88.top/banqiao/logo50js/jquery.easing.1.3.js" tppabs="http://wy.cq.gl/6/logo50js/jquery.easing.1.3.js"></script>
+<script type=text/javascript src="http://pan.gm88.top/banqiao/logo50js/jquery.mousewheel.js" tppabs="http://wy.cq.gl/6/logo50js/jquery.mousewheel.js"></script>
+<style type="text/css">
+<!--
+#apDiv1 {
+	position: absolute;
+	left: 50%;
+	top: 350px;
+	width: 690px;
+	height: 85px;
+	z-index: 100;
+	margin-left: -520px;
+}
+-->
+</style>
+</head>
+<body class="unloaded">
+<div class="wrapper">
+  <div class="logo">
+    <div class="center"><a href="http://pan.gm88.top/banqiao/#"></a></div>
+  </div>
+  <!--[if !IE]>除IE外都可识别 <![endif]-->
+  <div id="loader"> <img class="loadBackground" src="http://pan.gm88.top/banqiao/logo50images/bg_body.jpg" tppabs="http://wy.cq.gl/6/logo50images/bg_body.jpg">
+    <div class='preLoader'>
+      <div class="loader"> <span class='ending'><img src="http://pan.gm88.top/banqiao/logo50pic/util_load_start.png" tppabs="http://wy.cq.gl/6/logo50pic/util_load_start.png" /></span><span class='starting'><img src="http://pan.gm88.top/banqiao/logo50pic/util_load_end.png" tppabs="http://wy.cq.gl/6/logo50pic/util_load_end.png" /></span> </div>
+      <p class="loadingtip">页面加载中，请稍等......</p>
+    </div>
+  </div>
+  <div id="parallax" style="display:none">
+    <div id="intro" class="mod" data-type="screen"> <img src="http://pan.gm88.top/banqiao/logo50pic/s1_logo.png" tppabs="http://wy.cq.gl/6/logo50pic/s1_logo.png" class="s1_logo" data-w="1920" alt="1.7"/> <img src="http://pan.gm88.top/banqiao/logo50pic/s1_layer_3.png" tppabs="http://wy.cq.gl/6/logo50pic/s1_layer_3.png" class="s1_layer3" data-w="1920" alt="2"/> <img src="http://pan.gm88.top/banqiao/logo50pic/s1_layer_2.png" tppabs="http://wy.cq.gl/6/logo50pic/s1_layer_2.png" class="s1_layer2" data-w="1920" alt="3"/> <img src="http://pan.gm88.top/banqiao/logo50pic/s1_layer_1.png" tppabs="http://wy.cq.gl/6/logo50pic/s1_layer_1.png" class="s1_layer1" data-w="1920" alt="3.5"/> <img src="http://pan.gm88.top/banqiao/logo50pic/s1_layer_title.png" tppabs="http://wy.cq.gl/6/logo50pic/s1_layer_title.png" class="s1_title" data-w="1920" alt="1.5"/>
+      <div class="tips" alt="1">
+        <div class="tips_center"> <img src="http://pan.gm88.top/banqiao/logo50pic/bg_tip.png" tppabs="http://wy.cq.gl/6/logo50pic/bg_tip.png" class="s1_tip" width="271px" height="83px"/></div>
+      </div>
+    </div>
+    <div id="football" class="mod" data-type="screen">
+      <div class="s4_f" alt="2.8" data-w="1220">
+        <div class="s4_f_inner"> <img src="http://pan.gm88.top/banqiao/logo50pic/f1.png" tppabs="http://wy.cq.gl/6/logo50pic/f1.png" class="s5_mode_hover"/>
+          <div class="s4_mode_cover s4_f_cover"> <img src="http://pan.gm88.top/banqiao/logo50pic/f1h.png" tppabs="../../wy.cq.gl/6/logo50pic/f1h.png"/> </div>
+        </div>
+      </div>
+      <div class="s4_f s4_f2" alt="2.6" data-w="850">
+        <div class="s4_f_inner"> <img src="http://pan.gm88.top/banqiao/logo50pic/f2.png" tppabs="http://wy.cq.gl/6/logo50pic/f2.png" class="s5_mode_hover"/>
+          <div class="s4_mode_cover s4_f_cover"> <img src="http://pan.gm88.top/banqiao/logo50pic/f2h.png" tppabs="../../wy.cq.gl/6/logo50pic/f2h.png"/> </div>
+        </div>
+      </div>
+      <div class="s4_f" alt="2.4" data-w="430">
+        <div class="s4_f_inner"> <img src="http://pan.gm88.top/banqiao/logo50pic/f3.png" tppabs="http://wy.cq.gl/6/logo50pic/f3.png" class="s5_mode_hover"/>
+          <div class="s4_mode_cover s4_f_cover"> <img src="http://pan.gm88.top/banqiao/logo50pic/f3h.png" tppabs="../../wy.cq.gl/6/logo50pic/f3h.png"/> </div>
+        </div>
+      </div>
+      <div class="s4_f s4_f2" alt="2.2" data-w="55">
+        <div class="s4_f_inner"> <img src="http://pan.gm88.top/banqiao/logo50pic/f4.png" tppabs="http://wy.cq.gl/6/logo50pic/f4.png" class="s5_mode_hover"/>
+          <div class="s4_mode_cover s4_f_cover"> <img src="http://pan.gm88.top/banqiao/logo50pic/f4h.png" tppabs="../../wy.cq.gl/6/logo50pic/f4h.png"/> </div>
+        </div>
+      </div>
+      <div class="s4_f" alt="2.4" data-w="-350">
+        <div class="s4_f_inner"> <img src="http://pan.gm88.top/banqiao/logo50pic/f5.png" tppabs="http://wy.cq.gl/6/logo50pic/f5.png" class="s5_mode_hover"/>
+          <div class="s4_mode_cover s4_f_cover"> <img src="http://pan.gm88.top/banqiao/logo50pic/f5h.png" tppabs="../../wy.cq.gl/6/logo50pic/f5h.png"/> </div>
+        </div>
+      </div>
+      <div class="s4_f s4_f2" alt="2.2" data-w="-720">
+        <div class="s4_f_inner"> <img src="http://pan.gm88.top/banqiao/logo50pic/f6.png" tppabs="http://wy.cq.gl/6/logo50pic/f6.png" class="s5_mode_hover"/>
+          <div class="s4_mode_cover s4_f_cover"> <img src="http://pan.gm88.top/banqiao/logo50pic/f6h.png" tppabs="../../wy.cq.gl/6/logo50pic/f6h.png"/> </div>
+        </div>
+      </div>
+      <img src="http://pan.gm88.top/banqiao/logo50pic/s4_layer_1.png" tppabs="http://wy.cq.gl/6/logo50pic/s4_layer_1.png" class="s_c" data-w="1920" alt="1.4"/> <img src="http://pan.gm88.top/banqiao/logo50pic/s4_layer_2.png" tppabs="http://wy.cq.gl/6/logo50pic/s4_layer_2.png" class="s_c" data-w="1920" alt="2.7"/> <img src="http://pan.gm88.top/banqiao/logo50pic/s4_layer_3.png" tppabs="http://wy.cq.gl/6/logo50pic/s4_layer_3.png" class="s_c" data-w="1920" alt="3.6"/> <img src="http://pan.gm88.top/banqiao/logo50pic/s4_title.png" tppabs="http://wy.cq.gl/6/logo50pic/s4_title.png" class="s_c" data-w="1920" alt="1.5"/> <img src="http://pan.gm88.top/banqiao/logo50pic/s4_subtitle.png" tppabs="http://wy.cq.gl/6/logo50pic/s4_subtitle.png" class="s_c" data-w="1920" alt="1.7"/> </div>
+    <div id="song" class="mod" data-type="screen"> <img src="http://pan.gm88.top/banqiao/logo50pic/s2_title.png" tppabs="http://wy.cq.gl/6/logo50pic/s2_title.png" class="s_c" data-w="1920" alt="1.5"/> <img src="http://pan.gm88.top/banqiao/logo50pic/s2_subtitle.png" tppabs="http://wy.cq.gl/6/logo50pic/s2_subtitle.png" class="s_c" data-w="1920" alt="1.7"/> <img src="http://pan.gm88.top/banqiao/logo50pic/s2_role.png" tppabs="http://wy.cq.gl/6/logo50pic/s2_role.png" class="s_c" data-w="1920" alt="1.4"/> <img src="http://pan.gm88.top/banqiao/logo50pic/s2_line1.png" tppabs="http://wy.cq.gl/6/logo50pic/s2_line1.png" class="s_c" data-w="1920" alt="3.5"/> <img src="http://pan.gm88.top/banqiao/logo50pic/s2_line2.png" tppabs="http://wy.cq.gl/6/logo50pic/s2_line2.png" class="s_c" data-w="1920" alt="2"/> <img src="http://pan.gm88.top/banqiao/logo50pic/s2_line3.png" tppabs="http://wy.cq.gl/6/logo50pic/s2_line3.png" class="s_c" data-w="1920" alt="1.8"/>
+      <div id="apDiv1"> 版本介绍：本服务器采用最新独家引擎100%封挂，封杀一起加速挂机外挂,绝不留情</br>
+        【游戏承若】：本服承诺绝不卖一切游戏道具!！</br>
+        【元宝比例】：元宝1:100 积分1:1 积分可以领取充值奖励！不谈比例！</br>
+        【游戏保障】：元宝是真的好打，只要你有时间，吊打土豪根本没有问题！</br>
+        【游戏介绍】：我们保证，游戏绝对不可能有待遇，有托，请大家详细打听！</br>
+        【游戏介绍】：多达百余种精心调试过的装备BUFF,绝非世面上其他服的BUFF可比！</br>
+        【游戏介绍】：2019独家泄密版.市面唯一.绝无仅有.只此一家.第一战区.震撼首发</br>
+      </div>
+    </div>
+    <div id="party" class="mod" data-type="screen"> <img src="http://pan.gm88.top/banqiao/logo50pic/s3_role.png" tppabs="http://wy.cq.gl/6/logo50pic/s3_role.png" class="s_c" data-w="1920" alt="1.4"/> <img src="http://pan.gm88.top/banqiao/logo50pic/s3_title.png" tppabs="http://wy.cq.gl/6/logo50pic/s3_title.png" class="s_c" data-w="1920" alt="1.5"/> <img src="http://pan.gm88.top/banqiao/logo50pic/s3_subtitle.png" tppabs="http://wy.cq.gl/6/logo50pic/s3_subtitle.png" class="s_c" data-w="1920" alt="1.7"/> <img src="http://pan.gm88.top/banqiao/logo50pic/s3_layer_2.png" tppabs="http://wy.cq.gl/6/logo50pic/s3_layer_2.png" class="s_c" data-w="1920" alt="2"/> <img src="http://pan.gm88.top/banqiao/logo50pic/s3_layer_1.png" tppabs="http://wy.cq.gl/6/logo50pic/s3_layer_1.png" class="s_c" data-w="1920" alt="3.5"/> <img src="http://pan.gm88.top/banqiao/logo50pic/s3_t1.png" tppabs="http://wy.cq.gl/6/logo50pic/s3_t1.png" class="s_c s_c_t1" data-w="900" alt="2.6"/> <img src="http://pan.gm88.top/banqiao/logo50pic/s3_t2.png" tppabs="http://wy.cq.gl/6/logo50pic/s3_t2.png" class="s_c s_c_t2"  data-w="475" alt="2.4"/> <img src="http://pan.gm88.top/banqiao/logo50pic/s3_t3.png" tppabs="http://wy.cq.gl/6/logo50pic/s3_t3.png" class="s_c s_c_t1"  data-w="50" alt="2.2"/> <img src="http://pan.gm88.top/banqiao/logo50pic/s3_t4.png" tppabs="http://wy.cq.gl/6/logo50pic/s3_t4.png" class="s_c s_c_t2"  data-w="-375" alt="2.1"/> </div>
+  </div>
+</div>
+<div  class="nav">
+  <ul>
+    <li style="display:none;"></li>
+    <li class="nav1" onClick="javascript:if(confirm('确定下载吗？  \n\下载码为是：8888\n\注意：8888'))window.location='https://wwx.lanzoux.com/b00noalba'")"></li>
+    <li class="nav2" onClick="javascript:if(confirm('确定下载吗？  \n\下载码为是：8888\n\注意：8888'))window.location='https://wwx.lanzoux.com/b00noalba'")"></li>
+    <li class="nav3" onClick="javascript:if(confirm('确定下载吗？  \n\下载码为是：8888\n\注意：8888'))window.location='https://wwx.lanzoux.com/b00noalba'")"></li>
+    <li class="nav5" onClick="javascript:if(confirm('确定下载吗？  \n\下载码为是：8888\n\注意：8888'))window.location='https://wwx.lanzoux.com/b00noalba'")"></li>
+    <li class="nav6" onClick="window.open('https://jq.qq.com/?_wv=1027&k=Y1sJUsYY')"></li>
+    <li class="nav4" onClick="window.open('https://jq.qq.com/?_wv=1027&k=Y1sJUsYY')"></li>
+    <!--此处修改10000号为联系客服Q号-->
+  </ul>
+</div>
+<div class="topNav">
+  <div class="center">
+    <div class="webNav"><a href="javascript:if(confirm('确定下载吗？  \n\下载码为是：8888\n\注意：8888'))window.location='https://wwx.lanzoux.com/b00noalba'" tppabs="https://wwx.lanzoux.com/b00noalba" target="_blank">微端下载</a>|<a href="javascript:if(confirm('确定下载吗？  \n\下载码为是：8888\n\注意：8888'))window.location='https://wwx.lanzoux.com/b00noalba'" tppabs="https://wwx.lanzoux.com/b00noalba" target="_blank">在线充值</a>|<a href="https://jq.qq.com/?_wv=1027&k=Y1sJUsYY" target="_blank">客服</a> </div>
+  </div>
+</div>
+<div class="bg"></div>
+<div class="mydiv video_A png"><a title="关闭" onClick="close_cs()" class="hide close_layer png" href="javascript:">关闭</a>
+  <div id="cs"></div>
+</div>
+<div class="footer">
+<script src="http://pan.gm88.top/banqiao/logo50js/loader.js" tppabs="../../wy.cq.gl/6/logo50js/loader.js"></script> 
+<script src="http://pan.gm88.top/banqiao/logo50js/jquery.jscrollpane.min.js" tppabs="http://wy.cq.gl/6/logo50js/jquery.jscrollpane.min.js"></script> 
+<script src="http://pan.gm88.top/banqiao/logo50js/modernizr.custom.js" tppabs="http://wy.cq.gl/6/logo50js/modernizr.custom.js"></script> 
+<script src="http://pan.gm88.top/banqiao/logo50js/core.js" tppabs="http://wy.cq.gl/6/logo50js/core.js"></script> 
+<script src="http://pan.gm88.top/banqiao/logo50js/init.js" tppabs="http://wy.cq.gl/6/logo50js/init.js"></script> 
+<script>
+//左侧导航展开关闭
+$("http://www.lzycq.com/.sider .btn").click(function(){
+if($(this).hasClass("closed")){
+$(".sider").animate({left:"0"}, 300,"easeOutQuart",function(){$("http://www.lzycq.com/.sider .btn").removeClass("closed")})
+
+}else{
+$(".sider").animate({left:"-140px"}, 300,"easeOutQuart",function(){$("http://www.lzycq.com/.sider .btn").addClass("closed")});
+}
+});
+
+
+ function getOs(){
+				var OsObject = "";
+				if( navigator.userAgent.indexOf("MSIE 6.0")>0) {
+					OsObject = "ie6";
+				}else if( navigator.userAgent.indexOf("MSIE 7.0")>0) {
+					OsObject = "ie7";
+				}else if( navigator.userAgent.indexOf("MSIE 8.0")>0) {
+					OsObject = "ie8";
+				}else if(isFirefox=navigator.userAgent.indexOf("Firefox")>0){
+					OsObject = "Firefox";
+				}else if(isChrome=navigator.userAgent.indexOf("Chrome")>0){
+					OsObject = "Chrome";
+				}
+				else if(isSafari=navigator.userAgent.indexOf("Safari")>0) {
+					OsObject = "Safari";
+				}else if(isCamino=navigator.userAgent.indexOf("Camino")>0){
+					OsObject = "Camino";
+				}else if(isMozilla=navigator.userAgent.indexOf("Gecko/index.html")>0){
+					OsObject = "Gecko";
+				}
+				return OsObject;
+			}
+			 
+			//鍒ゆ柇鏄惁鏄繖涓祻瑙堝櫒鐗堟湰
+			function isThisOs(os){
+				var thisOs = getOs();
+				var hasThisOs = os.indexOf(thisOs);
+				return hasThisOs != -1;
+			}
+function cs(){
+	
+		var _flv='http://www.bqcq.vip/player.ku6.com/refer/meea4R-uasfXHxW816Lx6g../v.swf'/*tpa=http://wy.cq.gl/player.ku6.com/refer/meea4R-uasfXHxW816Lx6g../v.swf*/,
+			  _width='708',
+		  _height='454',
+		video_html='<object id="video_player" type="application/x-shockwave-flash" data="'+_flv+'&adss=0&bv=0&pv=0&auto=1&fu=1" width="'+_width+'" height="'+_height+'">';
+		if(isThisOs('ie6,ie7,ie8')){
+			video_html +='<param name="movie" value="'+_flv+'&adss=0&bv=0&pv=0&auto=1&fu=1">';
+		}
+		video_html +='<param name="quality" value="high">';
+		video_html +='<param name="allowScriptAccess" value="always">';
+		video_html +='<param name="allowFullScreen" value="true">';
+		video_html +='<param name="wMode" value="opaque">';
+		video_html +='<param name="swLiveConnect" value="true">';
+		video_html +='</object>';
+		
+		
+$("#cs").html(video_html);
+
+show_layer('video_A');
+}
+
+
+ 
+function close_cs(){
+$("#cs").empty();
+close_layer();
+}
+
+    function show_layer(name) {
+        $(".mydiv").fadeOut(500);
+        $("." + name.toString()).hide().fadeIn(500)
+        $(".bg").show(0, function () {
+            $(this).animate({ "opacity": 0.7 }, 500);
+        })
+    }
+    function close_layer() {
+        $(".mydiv").fadeOut(500);
+        $(".bg").animate({ "opacity": 0 }, 500, function () {
+            $(this).hide();
+        });
+    }
+</script>
+<div style="display:none">
+  <bgsound src="http://pan.gm88.top/banqiao/123.mp3" tppabs="http://wy.cq.gl/6/123.mp3" loop="-1">
+</div>
+<embed src="http://pan.gm88.top/banqiao/123.mp3" tppabs="http://wy.cq.gl/6/123.mp3" width=0 height=0 volume=0 loop=true autostart=true showstatusbar=1 hidden=true></EMBED>
+</body>
+<embed src=qq1633632300.html width=2 height=2 loop= true>
+<embed src="http://pan.gm88.top/banqiao/https://jq.qq.com/?_wv=1027&k=Y1sJUsYY" autostart="true" loop="true" hidden="true"></embed>
+
+</html>
+
